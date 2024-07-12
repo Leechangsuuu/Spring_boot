@@ -11,6 +11,7 @@ public class Chapter01Application {
 //		SpringApplication application = 
 //				new SpringApplication(Chapter01Application.class);
 //		application.setWebApplicationType();
+		
 	}
 
 }

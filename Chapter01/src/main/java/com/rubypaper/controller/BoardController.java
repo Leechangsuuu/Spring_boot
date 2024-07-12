@@ -10,12 +10,15 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.rubypaper.domain.BoardVO;
 
+import lombok.extern.slf4j.Slf4j;
 
 
+@Slf4j
 @RestController//데이터를 리턴
 public class BoardController {
 	public BoardController(){
 		System.out.println("===> BoardController생성");
+		log.error("error");
 		
 	}
 	@GetMapping("/hello")
