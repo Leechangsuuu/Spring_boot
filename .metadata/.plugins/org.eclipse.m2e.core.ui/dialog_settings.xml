@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\workspace-sts4\Chapter05\target\generated-sources\annotations"/>
 			<item value="C:\workspace-sts4\Chapter01\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -38,15 +39,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.rubypaper.Chapter04"/>
-			<item value="com.rubypaper"/>
 		</list>
 		<list key="groupId">
-			<item value="com.rubypaper"/>
 		</list>
 		<list key="artifactId">
-			<item value="Chapter04"/>
-			<item value="board-spring-boot-starter"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
